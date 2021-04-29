@@ -17,7 +17,7 @@ export const App = () => {
   }
 
     console.log(mobileMenuState) 
-    const y = 'd'
+    const y = 'h'
   return (
     <div className="App">
       <Menubar width={width} mobileMenuState={mobileMenuState}/>
