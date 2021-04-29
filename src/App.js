@@ -17,6 +17,11 @@ export const App = () => {
   }
 
     console.log(mobileMenuState) 
+    // <div className="App">
+    //   <Menubar width={width} mobileMenuState={mobileMenuState}/>
+    //   {renderHamburger(width)}
+    // </div>
+    console.log("NNNOOOOOO")
     console.lofg(sdfdssfsdf)
   return (
     <div className="App">
