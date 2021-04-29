@@ -15,11 +15,15 @@ export const App = () => {
       <></>
     }
   }
-
+    // <div className="App">
     console.log(mobileMenuState) 
     // <div className="App">
-    console.log("NNNOOOOOO")
-    console.lofg(sdfdssfsdf)
+    // <div className="App">
+    console.log(mobileMenuState) 
+    // <div className="App">
+    // <div className="App">
+    console.log(mobileMenuState) 
+    // <div className="App">
   return (
     <div className="App">
       <Menubar width={width} mobileMenuState={mobileMenuState}/>
