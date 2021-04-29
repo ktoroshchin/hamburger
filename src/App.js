@@ -17,6 +17,7 @@ export const App = () => {
   }
 
     console.log(mobileMenuState) 
+    console.log("NNNOOOOOO")
     console.lofg(sdfdssfsdf)
   return (
     <div className="App">
