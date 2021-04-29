@@ -1,0 +1,32 @@
+/*Desk top menu styles*/
+.menu {
+    background-color: chocolate;
+    display: flex;
+    padding: 2em;
+    justify-content: flex-end;
+}
+
+.menu > ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+/*Mobile menu styles*/
+.mobile {
+    height: 100vh;
+    background-color: black;
+    opacity: 0.1;
+    display: none;
+    justify-content: center;
+}
+
+.mobile > ul {
+   display: flex;
+   flex-direction: column;
+   margin: 0;
+   justify-content: center;
+}
