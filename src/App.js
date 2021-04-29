@@ -15,15 +15,8 @@ export const App = () => {
       <></>
     }
   }
-    // <div className="App">
-    console.log(mobileMenuState) 
-    // <div className="App">
-    // <div className="App">
-    console.log(mobileMenuState) 
-    // <div className="App">
-    // <div className="App">
-    console.log(mobileMenuState) 
-    // <div className="App">
+  console.log('ffffff')
+  console.log('ffffff')
   return (
     <div className="App">
       <Menubar width={width} mobileMenuState={mobileMenuState}/>
